@@ -1,6 +1,5 @@
 """
 Version : 3
-Authors : Rahul Lokesh, Shivam Ojha, Sushant Tiwari
 Version Date : 16th Dec 2021
 Description : Utils file for Residual Attention Network Implementation
 """
